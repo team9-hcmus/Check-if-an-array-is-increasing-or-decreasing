@@ -14,10 +14,10 @@ class GFG
       
         else if (arr[0] <= arr[1] && 
                  arr[n - 2] >= arr[n - 1])  
-            System.out.println("Mang dang tang roi giam");  
+            System.out.println("Mang dang tang dan nhung sau do giam dan");  
 
         else
-            System.out.println("Mang dan giam roi tang"); 
+            System.out.println("Mang dang giam dan nhung sau do tang dan"); 
     } 
           
    // Driver Code
